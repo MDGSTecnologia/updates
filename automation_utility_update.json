@@ -1,1 +1,7 @@
-{}
+{
+  "pc": {
+    "version": "1.1",
+    "url": "https://github.com/MDGSTecnologia/updates/releases/latest/download/Automation.Utility.exe",
+    "sha256": "4AF388281EF3A6434835C1976163C8CA54296F9434D9B90C89B464DEF88069FD"
+  }
+}
