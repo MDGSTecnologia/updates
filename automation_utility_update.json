@@ -4,9 +4,9 @@
     "url": "https://github.com/MDGSTecnologia/updates/releases/latest/download/Automation.Utility.exe",
     "sha256": "AA26AEBD26C57BC56AD75AF6C53E3904E12058208034042C321950A65D638571"
   },
-  "android": {
-    "version": "1.0.15",
-    "url": "https://github.com/MDGSTecnologia/updates/releases/latest/download/Automation.Utility.apk",
-    "sha256": "COLOQUE_AQUI_O_SHA256_DO_APK_1.0.15"
+ "android": {
+  "version": "1.0.15",
+  "url": "https://github.com/MDGSTecnologia/updates/releases/latest/download/Automation.Utility.apk",
+  "sha256": "5D05624FF632A672BAC81E105F5B715F206DE451D6127DDB5CAEEA9475966D9F"
   }
 }
