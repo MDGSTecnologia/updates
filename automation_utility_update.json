@@ -5,8 +5,8 @@
     "sha256": "AA26AEBD26C57BC56AD75AF6C53E3904E12058208034042C321950A65D638571"
   },
   "android": {
-    "version": "1.0.16",
+    "version": "1.0.17",
     "url": "https://github.com/MDGSTecnologia/updates/releases/latest/download/Automation.Utility.apk",
-    "sha256": "fe2b6c3fe7a8da645945ee536f85a0584774390b3376f605667ec20c949b5b33"
+    "sha256": "a55ab9cead89e6ab85f2272f6ee21446d64f6ed38ad12ad0a683a96cd4619080"
   }
 }
